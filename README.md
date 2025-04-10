@@ -48,7 +48,7 @@ A full-stack web application for managing laptop inventory, user assignments, an
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/LaptopManagementSystem.git
+git clone https://github.com/Buchi-dev/LaptopManagementSystem.git
 cd LaptopManagementSystem
 ```
 
